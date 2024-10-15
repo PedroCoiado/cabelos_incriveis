@@ -27,6 +27,6 @@
 
 <img src="segnnorm.png" width=1000 height=150> 
 
-## 3° Nomralização
+## 3° Normalização
 
 <img src="tercnorm.png" width=1000 height=150>
